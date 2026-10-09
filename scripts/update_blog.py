@@ -154,7 +154,7 @@ def render_tags(posts):
     ordered = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))
     return "\n".join(
         f'<a href="{tag_url(t)}"><img alt="#{esc(t)} · {n}" '
-        f'src="https://img.shields.io/badge/{shield("#" + t)}-{n}-FFFDEC?style=flat-square&labelColor=050607"></a>'
+        f'src="https://img.shields.io/badge/{shield("#" + t)}-{n}-457D8A?style=flat-square&labelColor=050607"></a>'
         for t, n in ordered)
 
 

@@ -34,6 +34,8 @@ THEMES = {
     "dark": dict(bg="#050607", ink="#FFFDEC", muted="#A6A493", line="#FFFDEC29",
                  soft="#FFFDEC0F", badge_bg="#FFFDEC", badge_fg="#050607", page="#0D1117"),
 }
+# The offer cards sit on the brand blue in both themes.
+BLUE = dict(bg="#457D8A", ink="#FFFDEC", muted="#DCE5DF", line="#FFFDEC40")
 
 # Monogram, normalised to a 114.17 × 114.16 box (from the website favicon / nav badge).
 BADGE_BG = ("M27.01 0h60.16c14.85 0 27 12.15 27 27v60.16c0 14.85-12.15 27-27 27H27.01"
@@ -270,7 +272,7 @@ def cta(f, t):
     inv = {**t, "bg": t["ink"], "ink": t["bg"], "badge_bg": t["badge_fg"], "badge_fg": t["badge_bg"],
            "muted": THEMES["dark" if t is THEMES["light"] else "light"]["muted"]}
     disp, disp_m, body = f["display"], f["display_medium"], f["body"]
-    o = [f'<rect width="{W}" height="{h}" rx="22" fill="{inv["bg"]}"/>',
+    o = [f'<rect x=".5" y=".5" width="{W - 1}" height="{h - 1}" rx="22" fill="{inv["bg"]}" stroke="{THEMES["dark"]["line"]}"/>',
          f'<path fill="{inv["muted"]}" d="{disp_m.path("§05 — CONTACT", 64, 70, 13, 2.2)}"/>',
          f'<path class="rise" fill="{inv["ink"]}" d="{disp.path("Got a project?", 58, 168, 92, -1.5)}"/>',
          f'<path fill="{inv["ink"]}" d="{body.path("hello@nodalstudio.io", 64, 238, 27)}"/>',
@@ -333,9 +335,10 @@ def main():
          "body": Face(a.fonts / "body.woff2"),
          "body_medium": Face(a.fonts / "body-medium.woff2")}
     for name, t in THEMES.items():
-        (OUT / f"banner-{name}.svg").write_text(banner(f, t))
-        (OUT / f"offers-{name}.svg").write_text(offers(f, t))
-        (OUT / f"contact-{name}.svg").write_text(cta(f, t))
+        # banner and call to action are ink with cream letters whatever the theme
+        (OUT / f"banner-{name}.svg").write_text(banner(f, THEMES["dark"]))
+        (OUT / f"offers-{name}.svg").write_text(offers(f, BLUE))
+        (OUT / f"contact-{name}.svg").write_text(cta(f, THEMES["light"]))
         for n, kicker, title in SECTIONS:
             (OUT / f"section-{n}-{name}.svg").write_text(section(f, t, n, kicker, title))
     if a.work:

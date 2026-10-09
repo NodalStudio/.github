@@ -253,18 +253,18 @@ We write often — about AI, cybersecurity and software engineering, and what in
 <p><sub>BROWSE BY TOPIC</sub></p>
 
 <!-- TAGS:START -->
-<a href="https://nodalstudio.io/blog/tag/cybersecurity/"><img alt="#cybersecurity · 7" src="https://img.shields.io/badge/%23cybersecurity-7-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/ai-agents/"><img alt="#ai-agents · 6" src="https://img.shields.io/badge/%23ai--agents-6-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/anthropic/"><img alt="#anthropic · 2" src="https://img.shields.io/badge/%23anthropic-2-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/governance/"><img alt="#governance · 2" src="https://img.shields.io/badge/%23governance-2-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/hugging-face/"><img alt="#hugging-face · 2" src="https://img.shields.io/badge/%23hugging--face-2-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/mythos/"><img alt="#mythos · 2" src="https://img.shields.io/badge/%23mythos-2-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/open-source/"><img alt="#open-source · 2" src="https://img.shields.io/badge/%23open--source-2-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/openai/"><img alt="#openai · 2" src="https://img.shields.io/badge/%23openai-2-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/accounting/"><img alt="#accounting · 1" src="https://img.shields.io/badge/%23accounting-1-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/llm-evaluation/"><img alt="#llm-evaluation · 1" src="https://img.shields.io/badge/%23llm--evaluation-1-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/rag/"><img alt="#rag · 1" src="https://img.shields.io/badge/%23rag-1-FFFDEC?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/software-development/"><img alt="#software-development · 1" src="https://img.shields.io/badge/%23software--development-1-FFFDEC?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/cybersecurity/"><img alt="#cybersecurity · 7" src="https://img.shields.io/badge/%23cybersecurity-7-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/ai-agents/"><img alt="#ai-agents · 6" src="https://img.shields.io/badge/%23ai--agents-6-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/anthropic/"><img alt="#anthropic · 2" src="https://img.shields.io/badge/%23anthropic-2-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/governance/"><img alt="#governance · 2" src="https://img.shields.io/badge/%23governance-2-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/hugging-face/"><img alt="#hugging-face · 2" src="https://img.shields.io/badge/%23hugging--face-2-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/mythos/"><img alt="#mythos · 2" src="https://img.shields.io/badge/%23mythos-2-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/open-source/"><img alt="#open-source · 2" src="https://img.shields.io/badge/%23open--source-2-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/openai/"><img alt="#openai · 2" src="https://img.shields.io/badge/%23openai-2-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/accounting/"><img alt="#accounting · 1" src="https://img.shields.io/badge/%23accounting-1-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/llm-evaluation/"><img alt="#llm-evaluation · 1" src="https://img.shields.io/badge/%23llm--evaluation-1-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/rag/"><img alt="#rag · 1" src="https://img.shields.io/badge/%23rag-1-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/software-development/"><img alt="#software-development · 1" src="https://img.shields.io/badge/%23software--development-1-457D8A?style=flat-square&labelColor=050607"></a>
 <!-- TAGS:END -->
 
 <p>
