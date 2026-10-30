@@ -194,57 +194,57 @@ ubique.sharpe(returns, 0.02 / 12); // ≈ 0.6988
 We write often — about AI, cybersecurity and software engineering, and what industrialised intelligence changes in how systems are built, run and protected. Every article is published in **English**, **French** and **Spanish**.
 
 <!-- BLOG-STATS:START -->
-**10 articles** since August 2026 &nbsp;·&nbsp; a new one every **~6 days** &nbsp;·&nbsp; **12 topics** &nbsp;·&nbsp; latest on October 13, 2026
+**11 articles** since August 2026 &nbsp;·&nbsp; a new one every **~6 days** &nbsp;·&nbsp; **13 topics** &nbsp;·&nbsp; latest on October 20, 2026
 <!-- BLOG-STATS:END -->
 
 <!-- BLOG:START -->
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://nodalstudio.io/blog/regulation-and-the-intent-gap/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/regulation-and-the-intent-gap-44048d70.webp" width="100%" alt="Regulation and the intent gap"></a>
+<p><sub>OCT&nbsp;20,&nbsp;2026&nbsp;· CYBERSECURITY</sub></p>
+<p><a href="https://nodalstudio.io/blog/regulation-and-the-intent-gap/"><b>Regulation and the intent gap</b></a></p>
+<p><sub><a href="https://nodalstudio.io/blog/tag/cybersecurity/">#cybersecurity</a> <a href="https://nodalstudio.io/blog/tag/regulation/">#regulation</a> <a href="https://nodalstudio.io/blog/tag/governance/">#governance</a></sub></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://nodalstudio.io/blog/prompt-injection-is-not-a-bug-you-can-patch/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/prompt-injection-is-not-a-bug-you-can-patch-2f3181ec.webp" width="100%" alt="Prompt injection is still not a bug you can patch"></a>
 <p><sub>OCT&nbsp;13,&nbsp;2026&nbsp;· CYBERSECURITY</sub></p>
 <p><a href="https://nodalstudio.io/blog/prompt-injection-is-not-a-bug-you-can-patch/"><b>Prompt injection is still not a bug you can patch</b></a></p>
 <p><sub><a href="https://nodalstudio.io/blog/tag/cybersecurity/">#cybersecurity</a> <a href="https://nodalstudio.io/blog/tag/ai-agents/">#ai&#8209;agents</a> <a href="https://nodalstudio.io/blog/tag/governance/">#governance</a></sub></p>
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 <a href="https://nodalstudio.io/blog/from-reviewing-code-to-converting-judgment/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/from-reviewing-code-to-converting-judgment-5851bd2d.webp" width="100%" alt="From reviewing code to converting judgment: a developer&#x27;s note on working with agents"></a>
 <p><sub>OCT&nbsp;8,&nbsp;2026&nbsp;· AI&nbsp;&amp;&nbsp;AUTOMATION</sub></p>
 <p><a href="https://nodalstudio.io/blog/from-reviewing-code-to-converting-judgment/"><b>From reviewing code to converting judgment: a developer&#x27;s note on working with agents</b></a></p>
 <p><sub><a href="https://nodalstudio.io/blog/tag/software-development/">#software&#8209;development</a> <a href="https://nodalstudio.io/blog/tag/ai-agents/">#ai&#8209;agents</a> <a href="https://nodalstudio.io/blog/tag/governance/">#governance</a></sub></p>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 <a href="https://nodalstudio.io/blog/every-agent-is-an-identity/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/every-agent-is-an-identity-6b73dd2c.webp" width="100%" alt="Every agent is an identity, and almost nobody governs it that way"></a>
 <p><sub>OCT&nbsp;6,&nbsp;2026&nbsp;· CYBERSECURITY</sub></p>
 <p><a href="https://nodalstudio.io/blog/every-agent-is-an-identity/"><b>Every agent is an identity, and almost nobody governs it that way</b></a></p>
 <p><sub><a href="https://nodalstudio.io/blog/tag/cybersecurity/">#cybersecurity</a> <a href="https://nodalstudio.io/blog/tag/ai-agents/">#ai&#8209;agents</a> <a href="https://nodalstudio.io/blog/tag/governance/">#governance</a></sub></p>
 </td>
-<td width="50%" valign="top">
-<a href="https://nodalstudio.io/blog/your-agent-framework-is-the-attack-surface/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/your-agent-framework-is-the-attack-surface-79d5f715.webp" width="100%" alt="Your agent framework is the attack surface"></a>
-<p><sub>SEP&nbsp;29,&nbsp;2026&nbsp;· CYBERSECURITY</sub></p>
-<p><a href="https://nodalstudio.io/blog/your-agent-framework-is-the-attack-surface/"><b>Your agent framework is the attack surface</b></a></p>
-<p><sub><a href="https://nodalstudio.io/blog/tag/cybersecurity/">#cybersecurity</a> <a href="https://nodalstudio.io/blog/tag/ai-agents/">#ai&#8209;agents</a></sub></p>
-</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://nodalstudio.io/blog/your-agent-framework-is-the-attack-surface/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/your-agent-framework-is-the-attack-surface-79d5f715.webp" width="100%" alt="Your agent framework is the attack surface"></a>
+<p><sub>SEP&nbsp;29,&nbsp;2026&nbsp;· CYBERSECURITY</sub></p>
+<p><a href="https://nodalstudio.io/blog/your-agent-framework-is-the-attack-surface/"><b>Your agent framework is the attack surface</b></a></p>
+<p><sub><a href="https://nodalstudio.io/blog/tag/cybersecurity/">#cybersecurity</a> <a href="https://nodalstudio.io/blog/tag/ai-agents/">#ai&#8209;agents</a></sub></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://nodalstudio.io/blog/black-hat-2026-keynotes/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/black-hat-2026-keynotes-aecd0b25.webp" width="100%" alt="Black Hat 2026: what the keynotes argued"></a>
 <p><sub>SEP&nbsp;22,&nbsp;2026&nbsp;· CYBERSECURITY</sub></p>
 <p><a href="https://nodalstudio.io/blog/black-hat-2026-keynotes/"><b>Black Hat 2026: what the keynotes argued</b></a></p>
 <p><sub><a href="https://nodalstudio.io/blog/tag/cybersecurity/">#cybersecurity</a></sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://nodalstudio.io/blog/verifiable-llm-answers-french-accounting-law/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/verifiable-llm-answers-french-accounting-law-95046fb8.webp" width="100%" alt="Making an LLM verifiable on French accounting law: what we measured"></a>
-<p><sub>SEP&nbsp;18,&nbsp;2026&nbsp;· AI&nbsp;&amp;&nbsp;AUTOMATION</sub></p>
-<p><a href="https://nodalstudio.io/blog/verifiable-llm-answers-french-accounting-law/"><b>Making an LLM verifiable on French accounting law: what we measured</b></a></p>
-<p><sub><a href="https://nodalstudio.io/blog/tag/rag/">#rag</a> <a href="https://nodalstudio.io/blog/tag/llm-evaluation/">#llm&#8209;evaluation</a> <a href="https://nodalstudio.io/blog/tag/ai-agents/">#ai&#8209;agents</a> <a href="https://nodalstudio.io/blog/tag/accounting/">#accounting</a></sub></p>
 </td>
 </tr>
 </table>
@@ -253,9 +253,9 @@ We write often — about AI, cybersecurity and software engineering, and what in
 <p><sub>BROWSE BY TOPIC</sub></p>
 
 <!-- TAGS:START -->
-<a href="https://nodalstudio.io/blog/tag/cybersecurity/"><img alt="#cybersecurity · 8" src="https://img.shields.io/badge/%23cybersecurity-8-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/cybersecurity/"><img alt="#cybersecurity · 9" src="https://img.shields.io/badge/%23cybersecurity-9-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/ai-agents/"><img alt="#ai-agents · 7" src="https://img.shields.io/badge/%23ai--agents-7-457D8A?style=flat-square&labelColor=050607"></a>
-<a href="https://nodalstudio.io/blog/tag/governance/"><img alt="#governance · 3" src="https://img.shields.io/badge/%23governance-3-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/governance/"><img alt="#governance · 4" src="https://img.shields.io/badge/%23governance-4-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/anthropic/"><img alt="#anthropic · 2" src="https://img.shields.io/badge/%23anthropic-2-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/hugging-face/"><img alt="#hugging-face · 2" src="https://img.shields.io/badge/%23hugging--face-2-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/mythos/"><img alt="#mythos · 2" src="https://img.shields.io/badge/%23mythos-2-457D8A?style=flat-square&labelColor=050607"></a>
@@ -264,6 +264,7 @@ We write often — about AI, cybersecurity and software engineering, and what in
 <a href="https://nodalstudio.io/blog/tag/accounting/"><img alt="#accounting · 1" src="https://img.shields.io/badge/%23accounting-1-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/llm-evaluation/"><img alt="#llm-evaluation · 1" src="https://img.shields.io/badge/%23llm--evaluation-1-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/rag/"><img alt="#rag · 1" src="https://img.shields.io/badge/%23rag-1-457D8A?style=flat-square&labelColor=050607"></a>
+<a href="https://nodalstudio.io/blog/tag/regulation/"><img alt="#regulation · 1" src="https://img.shields.io/badge/%23regulation-1-457D8A?style=flat-square&labelColor=050607"></a>
 <a href="https://nodalstudio.io/blog/tag/software-development/"><img alt="#software-development · 1" src="https://img.shields.io/badge/%23software--development-1-457D8A?style=flat-square&labelColor=050607"></a>
 <!-- TAGS:END -->
 
