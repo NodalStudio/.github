@@ -201,7 +201,7 @@ We write often — about AI, cybersecurity and software engineering, and what in
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://nodalstudio.io/blog/french-accounting-exam-with-and-without-rag/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/french-accounting-exam-with-and-without-rag-52c3a9e5.webp" width="100%" alt="The November 2026 French chartered-accountancy exam: Claude Fable 5.2 scores 18.7 from memory, 19.2 with our texts"></a>
+<a href="https://nodalstudio.io/blog/french-accounting-exam-with-and-without-rag/"><img src="https://raw.githubusercontent.com/NodalStudio/.github/main/profile/assets/blog/french-accounting-exam-with-and-without-rag-9f1a25b9.webp" width="100%" alt="The November 2026 French chartered-accountancy exam: Claude Fable 5.2 scores 18.7 from memory, 19.2 with our texts"></a>
 <p><sub>NOV&nbsp;16,&nbsp;2026&nbsp;· AI&nbsp;&amp;&nbsp;AUTOMATION</sub></p>
 <p><a href="https://nodalstudio.io/blog/french-accounting-exam-with-and-without-rag/"><b>The November 2026 French chartered-accountancy exam: Claude Fable 5.2 scores 18.7 from memory, 19.2 with our texts</b></a></p>
 <p><sub><a href="https://nodalstudio.io/blog/tag/rag/">#rag</a> <a href="https://nodalstudio.io/blog/tag/llm-evaluation/">#llm&#8209;evaluation</a> <a href="https://nodalstudio.io/blog/tag/accounting/">#accounting</a></sub></p>
